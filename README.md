@@ -1,7 +1,6 @@
 # clean-bit-branch
-Script to cleanup local branch directories of tickets cloned from remote
-with branch-name same as ticket. Decision to delete directory is based on
-whether respective ticket is closed or not.
+Script to cleanup local branch directories of closed tickets cloned from
+remote with branch-name same as ticket.
 
 
 ### How to generate api-token 
