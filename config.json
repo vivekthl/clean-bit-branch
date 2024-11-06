@@ -1,0 +1,5 @@
+{
+  "domain-name" : "your domain name here",
+  "api-key" : "your jira api token here",
+  "email" : "your atlassian email id here"
+}
